@@ -30,13 +30,13 @@ pip install customtkinter
 
 ```python
 git clone https://github.com/yourusername/stopwatch-app.git
-cd stopwatch-app
+cd Stopwatch
 ```
 
 ### Run the application:
 
 ```python
-python stopwatch.py
+python main.py
 ```
 
 ## Controls:
