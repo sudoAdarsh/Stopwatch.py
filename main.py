@@ -84,7 +84,7 @@ def lap_button():
 
 app = customtkinter.CTk()
 app.title("Stopwatch")
-app.geometry("700x400")
+app.geometry("400x400")
 
 # Configure resizing
 app.grid_rowconfigure(0, weight=10)
